@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Christian. I currently work as a **Systems Administrator** in Austin, Texas. I'm studying to transition into a DevOps / Engineering role to build solutions. I love to play horror games 🎮, and I also enjoy watching competitions and comedies on TV! 📺
 
-* 🔭 I’m currently working on my AWS SAA-C03 certification.
+* 🔭 I’m currently working on my AWS SAA-C03 certification and The Odin Project.
 * 💭 I’m learning about EC2, S3, and VPCs.
 * 💬 Talk to me about cloud engineering!
 
