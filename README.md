@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Christian. I currently work as a **Systems Administrator** in Austin, Texas. I'm studying to transition into a DevOps / Engineering role to build solutions. I love to play horror games 🎮, and I also enjoy watching competitions and comedies on TV! 📺
+I am an aspiring software developer with a focus on full-stack development, specializing in Python, JavaScript, and Node.js. I have a solid foundation in computer science and software engineering, with experience in building web applications and developing RESTful APIs.
+
+My technical skills include proficiency in front-end development using HTML, CSS, and JavaScript, as well as frameworks like React, Vue.js, and Angular. On the back-end, I am experienced with server-side scripting using Node.js and frameworks like Express, as well as Python web frameworks like Django and Flask. I also have experience working with databases like CosmosDB, PostgreSQL, and MongoDB.
+
+I love to play horror games 🎮, and I also enjoy watching competitions and comedies on TV. My most recently finished show is Blown Away. Currently watchihg Physical: 100! 📺
 
 * 🔭 I’m currently working on my AWS SAA-C03 certification and The Odin Project.
 * 💭 I’m learning about EC2, S3, and VPCs.
