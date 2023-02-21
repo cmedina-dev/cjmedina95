@@ -19,11 +19,11 @@ I am an aspiring software developer with a focus on full-stack development, spec
 
 My technical skills include proficiency in front-end development using HTML, CSS, and JavaScript, as well as frameworks like React, Vue.js, and Angular. On the back-end, I am experienced with server-side scripting using Node.js and frameworks like Express, as well as Python web frameworks like Django and Flask. I also have experience working with databases like CosmosDB, PostgreSQL, and MongoDB.
 
-I love to play horror games 🎮, and I also enjoy watching competitions and comedies on TV. My most recently finished show is Blown Away. Currently watching Physical: 100! 📺
+I love to play horror games 🎮, and I also enjoy watching competitions and comedies on TV. My most recently finished show is *Blown Away*. Currently watching *Lego Masters* and *Physical: 100*! 📺
 
 * 🔭 I’m currently working on my AWS SAA-C03 certification and The Odin Project.
-* 💭 I’m learning about EC2, S3, and VPCs.
-* 💬 Talk to me about cloud engineering!
+* 💭 I’m learning about JavaScript, Nodejs, MongoDB, and React.
+* 💬 Talk to me about cloud engineering and full-stack development!
 
 ## 🧰 Languages and Tools:
 <p>
