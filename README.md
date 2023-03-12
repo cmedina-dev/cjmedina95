@@ -21,8 +21,8 @@ My technical skills include proficiency in front-end development using HTML, CSS
 
 I love to play horror games 🎮, and I also enjoy watching competitions and comedies on TV. My most recently finished show is *Blown Away*. Currently watching *Lego Masters* and *Physical: 100*! 📺
 
-* 🔭 I’m currently working on my AWS SAA-C03 certification and The Odin Project.
-* 💭 I’m learning about JavaScript, Nodejs, MongoDB, and React.
+* 🔭 I’m currently working on Fullstack Open and The Odin Project.
+* 💭 I’m learning about MongoDB, Express, React, and Node.js.
 * 💬 Talk to me about cloud engineering and full-stack development!
 
 ## 🧰 Languages and Tools:
