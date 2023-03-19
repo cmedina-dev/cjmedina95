@@ -15,15 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an aspiring software developer with a focus on full-stack development, specializing in Python, JavaScript, and Node.js. I have a solid foundation in computer science and software engineering, with experience in building web applications and developing RESTful APIs.
+👋 Welcome to my GitHub!
 
-My technical skills include proficiency in front-end development using HTML, CSS, and JavaScript, as well as frameworks like React, Vue.js, and Angular. On the back-end, I am experienced with server-side scripting using Node.js and frameworks like Express, as well as Python web frameworks like Django and Flask. I also have experience working with databases like CosmosDB, PostgreSQL, and MongoDB.
+🌐 Full-stack developer:
 
-I love to play horror games 🎮, and I also enjoy watching competitions and comedies on TV. My most recently finished show is *Blown Away*. Currently watching *Lego Masters* and *Physical: 100*! 📺
+* 🔥 Passionate about crafting top-notch web apps
+* 💪 MERN stack expert
+* 🚀 Keeping pace with evolving tech
+* 🎯 Seeking challenges & growth opportunities
 
-* 🔭 I’m currently working on Fullstack Open and The Odin Project.
-* 💭 I’m learning about MongoDB, Express, React, and Node.js.
-* 💬 Talk to me about cloud engineering and full-stack development!
+💻 Skills:
+
+* 🎨 Front-end: React, dynamic UIs, third-party libraries & APIs
+* 🛠️ Back-end: Node.js, Express, scalable server-side apps
+* 🗃️ MongoDB: Fluid data storage & retrieval
+
+🤝 Teamwork:
+
+* 💼 Strong work ethic
+* 🤖 Enjoy collaboration
+* 🧩 Solving complex problems
+* 🌱 Eager to learn & conquer challenges
+
+🏞️ Interests:
+
+* 🍃 Exploring nature
+* 🔧 Innovative projects
+* 📚 Lifelong learning
+
+🤗 Let's collaborate! Reach out for projects or discussions. Excited to bring ideas to life!
 
 ## 🧰 Languages and Tools:
 <p>
